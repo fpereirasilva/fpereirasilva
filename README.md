@@ -63,39 +63,39 @@
 ### **Certificações Recentes**
 - **GitHub Foundations**  
   Emitido em: Set 2024 | Expira em: Set 2027  
-  [Ver credencial](#)
+  
   
 - **SUSE Certified Engineer (SCE) in SUSE Linux Enterprise Server 15**  
   Emitido em: Ago 2024 | Código da credencial: 111815209  
-  [Ver credencial](#)
+  
   
 - **AWS re/Start Accredited Instructor**  
   Emitido em: Abr 2024 | Expira em: Dez 2026  
-  [Ver credencial](#)
+  
 
 - **SUSE Certified Administrator (SCA) in SUSE Linux Enterprise Server 15**  
   Emitido em: Abr 2024  
-  [Ver credencial](#)
+  
 
 - **Microsoft Certified: Azure AI Engineer Associate**  
   Emitido em: Mar 2024 | Expira em: Mar 2025 | Código da credencial: 92B18FD7C4494AEE  
-  [Ver credencial](#)
+  
 
 - **Microsoft Certified: Azure Network Engineer Associate**  
   Emitido em: Fev 2024 | Expira em: Fev 2025 | Código da credencial: 97085B8026C75432  
-  [Ver credencial](#)
+  
 
 - **AWS Certified Solutions Architect – Professional**  
   Emitido em: Dez 2023 | Expira em: Dez 2026  
-  [Ver credencial](#)
+  
 
 - **Microsoft Certified: Azure Security Engineer Associate**  
   Emitido em: Set 2023 | Expira em: Set 2024 | Código da credencial: 637639412F6C9AE8  
-  [Ver credencial](#)
+  
 
 - **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**  
   Emitido em: Set 2023 | Expira em: Set 2025  
-  [Ver credencial](#)
+  
 
 ---
 
