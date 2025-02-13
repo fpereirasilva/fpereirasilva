@@ -101,8 +101,8 @@
 
 ## 🌐 Conecte-se comigo!
 
-- 🌍 Site: [ServicosCloud](https://www.servicoscloud.com.br)  
+- 🌍 Site: [Bariti](https://www.bariti.io)  
 - 💼 LinkedIn: [Fabio Silva](https://www.linkedin.com/in/fabiosilva)  
-- 📧 E-mail: [fabiosilva@servicoscloud.com.br](mailto:fabiosilva@servicoscloud.com.br)  
+- 📧 E-mail: [fabiosilva@bariti.io](mailto:fabiosilva@bariti.io)  
 
 💡 **Vamos construir soluções inovadoras juntos!**
