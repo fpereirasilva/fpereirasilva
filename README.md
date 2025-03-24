@@ -95,14 +95,13 @@
 
 - **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**  
   Emitido em: Set 2023 | Expira em: Set 2025  
-  
 
 ---
 
 ## 🌐 Conecte-se comigo!
 
-- 🌍 Site: [Bariti](https://www.bariti.io)  
+- 🌍 Site: [Fabio Silva](https://www.fabiosilva.com.br)  
 - 💼 LinkedIn: [Fabio Silva](https://www.linkedin.com/in/fabiosilva)  
-- 📧 E-mail: [fabiosilva@bariti.io](mailto:fabiosilva@bariti.io)  
+- 📧 E-mail: [fabiosilva@fabiosilva.com.br](mailto:fabiosilva@fabiosilva.com.br)  
 
 💡 **Vamos construir soluções inovadoras juntos!**
