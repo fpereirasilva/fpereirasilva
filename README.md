@@ -13,6 +13,16 @@
 ## 🚀 Experiência Profissional
 
 ### **Arquiteto de Soluções**  
+**VSdata** | Remoto | **Jan de 2026 - Atual**  
+- Especialista em **pré-vendas e arquitetura**, apoiando equipes comerciais e operacionais no design, demonstração e implementação de soluções.  
+- Experiência com produtos SUSE, como **Rancher**, **NeuVector**, **SUSE for SAP**, além de **licenciamento** e **treinamento técnico**.  
+- Responsável por **PoCs**, **workshops** e **treinamento técnico**, promovendo inovação em setores como cloud e corporativo.
+- - Experiência com produtos REDHAT, como **Openshift**, **Redhat Enterprise 10**, **RedHAT for SAP**, além de **licenciamento** e **treinamento técnico**.  
+- Responsável por **PoCs**, **workshops** e **treinamento técnico**, promovendo inovação em setores como cloud e corporativo.
+- - Experiência com produtos Multicloud, como **AWS**, **OCI**, **Azure**, **IBM Cloud** e , além de **licenciamento** e **treinamento técnico**.  
+- Responsável por **PoCs**, **workshops** e **treinamento técnico**, promovendo inovação em setores como cloud e corporativo.
+
+### **Arquiteto de Soluções**  
 **SUSE Brasil** | Remoto | **Jan de 2024 - Atual (11 meses)**  
 - Especialista em **pré-vendas e arquitetura**, apoiando equipes comerciais e operacionais no design, demonstração e implementação de soluções.  
 - Experiência com produtos SUSE, como **Rancher**, **NeuVector**, **SUSE for SAP**, além de **licenciamento** e **treinamento técnico**.  
