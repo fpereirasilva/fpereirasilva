@@ -1,117 +1,147 @@
-# 👋 Olá, eu sou Fabio Silva
+# 👋 Hi, I'm Fabio Silva
 
-## 🌟 Sobre mim
+## 🌟 About Me
 
-🎓 Pós-graduado em **Inteligência Artificial** e **Segurança da Informação**, com vasta experiência em **arquitetura de soluções multicloud**, **cibersegurança**, e **consultoria estratégica**. Ao longo da minha carreira, contribuí para grandes empresas como **SUSE Brasil**, **Telefónica Tech**, e **Compass UOL**, liderando projetos de modernização tecnológica e transformação digital.
+🎓 Postgraduate in **Artificial Intelligence** and **Information Security**, with extensive experience in **multicloud solution architecture**, **cybersecurity**, and **strategic consulting**. Throughout my career, I have contributed to large companies such as **SoftwareOne**, **SUSE Brasil**, **Telefónica Tech**, and **Compass UOL**, leading technology modernization and digital transformation projects.
 
-💼 Atualmente, sou **consultor autônomo** e **arquiteto de soluções** na **SUSE Brasil**, onde ajudo clientes a implementar tecnologias de ponta, como Kubernetes, Rancher, e produtos Microsoft.
+💼 I work as a **Solution Engineer / Pre-Sales Engineer and Solution Architect**, with solid experience in strategic technical pre-sales roles, architecture design, and direct support for critical business decisions. I support customers throughout their **Cloud Computing**, **Cloud Native**, **Artificial Intelligence**, and **Data** journeys, with a focus on **AWS**, **Microsoft Azure**, **Google Cloud Platform (GCP)**, **Microsoft 365**, and **Security**.
 
-📚 Também atuo como instrutor e mentor, compartilhando conhecimento técnico em **cibersegurança**, **licenciamento Microsoft**, e **adoção de IA**.
+🐧 I am also a **Linux Kernel contributor**, supporting the translation and localization of Linux Kernel content into Brazilian Portuguese, contributing to the accessibility and adoption of open source technologies in Portuguese-speaking communities.
 
----
-
-## 🚀 Experiência Profissional
-
-### **Arquiteto de Soluções**  
-**VSdata** | Remoto | **Jan de 2026 - Atual**  
-- Especialista em **pré-vendas e arquitetura**, apoiando equipes comerciais e operacionais no design, demonstração e implementação de soluções.  
-- Experiência com produtos SUSE, como **Rancher**, **NeuVector**, **SUSE for SAP**, além de **licenciamento** e **treinamento técnico**.  
-- Responsável por **PoCs**, **workshops** e **treinamento técnico**, promovendo inovação em setores como cloud e corporativo.
-- - Experiência com produtos REDHAT, como **Openshift**, **Redhat Enterprise 10**, **RedHAT for SAP**, além de **licenciamento** e **treinamento técnico**.  
-- Responsável por **PoCs**, **workshops** e **treinamento técnico**, promovendo inovação em setores como cloud e corporativo.
-- - Experiência com produtos Multicloud, como **AWS**, **OCI**, **Azure**, **IBM Cloud** e , além de **licenciamento** e **treinamento técnico**.  
-- Responsável por **PoCs**, **workshops** e **treinamento técnico**, promovendo inovação em setores como cloud e corporativo.
-
-### **Arquiteto de Soluções**  
-**SUSE Brasil** | Remoto | **Jan de 2024 - Atual (11 meses)**  
-- Especialista em **pré-vendas e arquitetura**, apoiando equipes comerciais e operacionais no design, demonstração e implementação de soluções.  
-- Experiência com produtos SUSE, como **Rancher**, **NeuVector**, **SUSE for SAP**, além de **licenciamento** e **treinamento técnico**.  
-- Responsável por **PoCs**, **workshops** e **treinamento técnico**, promovendo inovação em setores como cloud e corporativo.  
+📚 I also serve as an **instructor and mentor**, delivering courses and technical training focused on **Artificial Intelligence**, **Kubernetes**, **Docker**, and **Linux**, bridging theory, hands-on practice, and real market demands.
 
 ---
 
-### **Cyber Security Specialist | Trainer | IA Architect**  
-**Serviços & Cloud** | Remoto | **2013 - Atual (11 anos 11 meses)**  
-- Consultor autônomo em **cibersegurança** e **treinamento técnico**, com foco em soluções Microsoft:  
-  - **Microsoft Security**, **Azure**, **365**, e **Copilot**.  
-  - Consultoria e treinamento em **licenciamento Microsoft LSP e CSP**, e **adoção de tecnologias**.  
-- Conclusão de mais de **70 projetos e treinamentos**, incluindo modernização de ambientes corporativos.
+## 🚀 Professional Experience
 
----
+### Solution Architect
+**SoftwareOne** | Remote | Jun 2026 - Present
 
-### **Arquiteto de Soluções Especialista | Tech Lead**  
-**Telefónica Tech** | Híbrido | **Jul de 2018 - Jan de 2024 (5 anos 7 meses)**  
-
-#### **Posição 1: Arquiteto Corporativo – Estratégia e Soluções Tecnológicas**  
-- Desenvolvimento de **estratégias de arquitetura corporativa**, integrando soluções de **cloud computing**, **segurança**, e **dados** para grandes clientes.  
-- Criação de propostas alinhadas às tendências de mercado, promovendo modernização tecnológica.  
-
-#### **Posição 2: Líder de Projetos de Arquitetura – Entrega e Relacionamento com Clientes**  
-- Gerenciamento de projetos de **pré-vendas a pós-implementação**, incluindo criação de **mapas arquiteturais** e **planos de modernização**.  
-- Relacionamento estratégico com clientes, garantindo a entrega de valor e alinhamento com objetivos de negócios.  
-
----
-
-### **Arquiteto de Soluções Sênior**  
-**Compass UOL** | Presencial | **Jan de 2016 - Mar de 2018 (2 anos 3 meses)**  
-- Apoio técnico em **pré-vendas** para soluções de **multicloud**, **virtualização** e produtividade com **Microsoft 365**.  
-- Responsável por **levantamento de requisitos**, **apresentação técnica**, **PoCs**, **workshops**, e **treinamento técnico**.  
-
----
-
-## 🛠️ Habilidades Técnicas
-
-- **Plataformas Cloud**: Azure, AWS, Google Cloud  
-- **Ferramentas e Tecnologias**: Kubernetes (Rancher, RKE2), Docker, Terraform, OpenStack, VMware  
-- **Cibersegurança**: Implementação de controles de segurança, monitoramento, e análise de vulnerabilidades  
-- **Inteligência Artificial**: Processamento de linguagem natural (NLP), automação, e APIs como OpenAI e Whisper  
-
----
-
-## 🎓 Certificações
-
-### **Certificações Recentes**
-- **GitHub Foundations**  
-  Emitido em: Set 2024 | Expira em: Set 2027  
-  
-  
-- **SUSE Certified Engineer (SCE) in SUSE Linux Enterprise Server 15**  
-  Emitido em: Ago 2024 | Código da credencial: 111815209  
-  
-  
-- **AWS re/Start Accredited Instructor**  
-  Emitido em: Abr 2024 | Expira em: Dez 2026  
-  
-
-- **SUSE Certified Administrator (SCA) in SUSE Linux Enterprise Server 15**  
-  Emitido em: Abr 2024  
-  
-
-- **Microsoft Certified: Azure AI Engineer Associate**  
-  Emitido em: Mar 2024 | Expira em: Mar 2025 | Código da credencial: 92B18FD7C4494AEE  
-  
-
-- **Microsoft Certified: Azure Network Engineer Associate**  
-  Emitido em: Fev 2024 | Expira em: Fev 2025 | Código da credencial: 97085B8026C75432  
-  
-
-- **AWS Certified Solutions Architect – Professional**  
-  Emitido em: Dez 2023 | Expira em: Dez 2026  
-  
-
-- **Microsoft Certified: Azure Security Engineer Associate**  
-  Emitido em: Set 2023 | Expira em: Set 2024 | Código da credencial: 637639412F6C9AE8  
-  
-
-- **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**  
-  Emitido em: Set 2023 | Expira em: Set 2025  
-
----
-
-## 🌐 Conecte-se comigo!
-
-- 🌍 Site: [Fabio Silva](https://www.fabiosilva.com.br)  
-- 💼 LinkedIn: [Fabio Silva](https://www.linkedin.com/in/fabiosilva)  
-- 📧 E-mail: [fabiosilva@fabiosilva.com.br](mailto:fabiosilva@fabiosilva.com.br)  
-
-💡 **Vamos construir soluções inovadoras juntos!**
+- Solution Engineer | Tech Lead AI & AWS Multicloud
+- - Multicloud Solution Architecture (AWS, Azure, and GCP)
+  - - Generative AI and Machine Learning
+    - - AWS Bedrock and Generative AI services
+      - - Cloud Native Architecture and Containers (Docker and Kubernetes)
+        - - DevOps Architecture and platform automation
+          - - Cloud Migration Strategies (7 Rs)
+            - - Application Migration and Modernization Programs
+              - - AWS Migration Acceleration Program (MAP)
+                - - AWS Funding and incentives for migration projects
+                  - - IaaS, PaaS, and SaaS Architecture design
+                    - - AWS Transform and workload modernization
+                      - - PoC (Proof of Concept) and technical validation
+                        - - Marketplace and Managed Services
+                          - - AWS Partner Network (APN) ecosystem
+                           
+                            - ### Senior Architect Presales Engineer
+                            - **VS DATA** | Remote | Feb 2026 - Present
+                           
+                            - - Pre-Sales Engineer and Solution Engineer with strategic focus on SUSE, Red Hat, AWS, IBM Cloud, and Google Cloud partnerships.
+                              - - Responsible for technical and business requirements gathering with enterprise and public sector clients.
+                                - - Working with solutions from SUSE, Red Hat, IBM, Nutanix, Pure Storage, Oracle, and hyperscalers (Azure, AWS, GCP, IBM Cloud, OCI).
+                                  - - Leading workshops, Tech Days, and technical presentations supporting commercial teams and executives.
+                                    - - Strong experience in large-scale deals (Big Deals) including public sector and government, with active participation in RFPs, TRs, and bidding processes.
+                                     
+                                      - ### Cloud Expert / AI
+                                      - **Logicalis Brasil** | Hybrid | Oct 2025 - Jan 2026
+                                     
+                                      - - Solution Engineer / Pre-Sales Engineer supporting enterprise and government clients on Cloud Computing, Data, and AI journeys.
+                                        - - Architecture design and conduction of POCs, RFPs, TRs, and bidding processes, working consultatively across technical, executive, commercial, and legal areas.
+                                          - - Solid experience in AWS, Microsoft Azure, GCP, Microsoft 365, and Security, applying Cloud Native, Kubernetes, DevOps and automation practices.
+                                            - - Strategic definition of AI and Data solutions, supporting environment modernization and digital transformation.
+                                              - - MEDDIC methodology practitioner.
+                                               
+                                                - ### Solution Architect
+                                                - **SUSE Brasil** | Remote | Jan 2024 - Sep 2025
+                                               
+                                                - - Solution Architect focused on technical pre-sales and solution architecture, directly supporting the commercial team.
+                                                  - - Architected and positioned solutions such as SUSE Rancher, SUSE NeuVector, SUSE Linux Enterprise, and SUSE for SAP.
+                                                    - - Consultative engagement with enterprise clients in cloud, hybrid, and on-premises environments.
+                                                      - - Continuous support to operational teams providing technical and commercial context for consulting and premium support teams.
+                                                        - - MEDDIC methodology practitioner.
+                                                         
+                                                          - ### Expert Solution Architect | Tech Lead
+                                                          - **Telefónica Tech** | Hybrid | Jul 2018 - Jan 2024
+                                                         
+                                                          - - Pre-Sales Architect supporting commercial and architecture teams for large enterprise clients and the Federal Government (Big Deals).
+                                                            - - Technical requirements gathering, solution design for Datacenter, Virtualization, Security, and Cloud.
+                                                              - - Development of end-to-end architectures in Virtualization, Security, and Cloud.
+                                                                - - Built and executed POCs, technical validations, and proof-of-value exercises.
+                                                                  - - Active participation in workshops, technical trainings, and executive presentations.
+                                                                   
+                                                                    - ### Independent Solution Architect (Freelance)
+                                                                    - **Freelance** | Brazil | Jun 2012 - Dec 2023
+                                                                   
+                                                                    - - Email environment migrations to Microsoft 365 (70+ migration projects).
+                                                                      - - Active Directory, Azure AD, Windows Servers, SharePoint Server projects for Microsoft Partners.
+                                                                        - - Clients including Tribunal de Justiça, Oi, Amil, Sabesp, CCR, and other large enterprises.
+                                                                          - - Linux environments administration with various distributions.
+                                                                            - - Database environments: MySQL, PostgreSQL.
+                                                                              - - VMware virtualization environments.
+                                                                                - - Microsoft Azure and AWS.
+                                                                                 
+                                                                                  - ### Senior Solution Architect
+                                                                                  - **Compass UOL** | On-site | Jan 2016 - Mar 2018
+                                                                                 
+                                                                                  - - Pre-sales architect supporting the commercial team with multicloud, virtualization, and Microsoft 365 productivity solutions.
+                                                                                    - - Requirements gathering, technical and commercial presentations, PoCs, pricing, workshops, and technical training.
+                                                                                     
+                                                                                      - ### Senior Sysadmin
+                                                                                      - **Disal Tecnologia** | On-site | Apr 2014 - Jul 2017
+                                                                                     
+                                                                                      - - Systems administration for 70+ applications in the consortium sector.
+                                                                                        - - Oracle database, Microsoft Office 365 migration (13,000+ accounts).
+                                                                                          - - 200+ Windows Servers, 80+ Linux servers (web, database, staging).
+                                                                                            - - Server modernization projects: Bradesco, 1U, Netapp Storage, Dell Storage.
+                                                                                             
+                                                                                              - ### Linux Sysadmin
+                                                                                              - **Ctinet Soluções em Conectividade e Informática** | On-site | Aug 2007 - Mar 2011
+                                                                                             
+                                                                                              - - Shell script programming, web server administration, email servers (Zimbra, Zarafa, Exchange), Windows Server.
+                                                                                                - - Python automation scripts and firewall administration.
+                                                                                                 
+                                                                                                  - ### Software Developer
+                                                                                                  - **BARBIERI CONSULTING** | On-site | May 2004 - May 2007
+                                                                                                 
+                                                                                                  - - Shell script programming, relational databases (PostgreSQL, MySQL), Linux systems.
+                                                                                                    - - Web programming, NFS, Apache, Samba server implementations.
+                                                                                                     
+                                                                                                      - ---
+                                                                                                      
+                                                                                                      ## 🛠️ Technical Skills
+                                                                                                      
+                                                                                                      **Cloud Platforms:** AWS, Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud, Oracle Cloud Infrastructure (OCI)
+                                                                                                      
+                                                                                                      **Cloud Native & DevOps:** Kubernetes (Rancher, RKE2, AKS, EKS), Docker, Docker Swarm, Terraform, OpenStack, VMware, DevOps practices
+                                                                                                      
+                                                                                                      **Cybersecurity:** Security controls implementation, monitoring, vulnerability analysis, NeuVector, Microsoft Security
+                                                                                                      
+                                                                                                      **Artificial Intelligence:** NLP, automation, OpenAI APIs, AWS Bedrock, Generative AI, LLMs, Machine Learning
+                                                                                                      
+                                                                                                      **Platforms & Tools:** SUSE Linux Enterprise, Red Hat Enterprise Linux, Microsoft 365, Azure DevOps, GitHub Copilot
+                                                                                                      
+                                                                                                      **Methodologies:** MEDDIC, Pre-Sales, Solution Architecture, Enterprise Architecture
+                                                                                                      
+                                                                                                      ---
+                                                                                                      
+                                                                                                      ## 🎓 Certifications
+                                                                                                      
+                                                                                                      - **GitHub Foundations** | Issued: Sep 2024 | Expires: Sep 2027
+                                                                                                      - - **SUSE Certified Engineer (SCE) in SUSE Linux Enterprise Server 15** | Issued: Aug 2024 | Credential: 111815209
+                                                                                                        - - **AWS re/Start Accredited Instructor** | Issued: Apr 2024 | Expires: Dec 2026
+                                                                                                          - - **SUSE Certified Administrator (SCA) in SUSE Linux Enterprise Server 15** | Issued: Apr 2024
+                                                                                                            - - **Microsoft Certified: Azure AI Engineer Associate** | Issued: Mar 2024 | Expires: Mar 2025 | Credential: 92B18FD7C4494AEE
+                                                                                                              - - **Microsoft Certified: Azure Network Engineer Associate** | Issued: Feb 2024 | Expires: Feb 2025 | Credential: 97085B8026C75432
+                                                                                                                - - **AWS Certified Solutions Architect – Professional** | Issued: Dec 2023 | Expires: Dec 2026
+                                                                                                                  - - **Microsoft Certified: Azure Security Engineer Associate** | Issued: Sep 2023 | Expires: Sep 2024 | Credential: 637639412F6C9AE8
+                                                                                                                    - - **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate** | Issued: Sep 2023 | Expires: Sep 2025
+                                                                                                                     
+                                                                                                                      - ---
+                                                                                                                      
+                                                                                                                      ## 🌐 Connect with Me!
+                                                                                                                      
+                                                                                                                      🌍 Website: [fabiosilva.com.br](https://fabiosilva.com.br)
+                                                                                                                      💼 LinkedIn: [linkedin.com/in/silvapfabio](https://linkedin.com/in/silvapfabio)
+                                                                                                                      📧 Email: fabiosilva@fabiosilva.com.br
+                                                                                                                      
+                                                                                                                      💡 Let's build innovative solutions together!
